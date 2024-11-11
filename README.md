@@ -16,10 +16,6 @@ Welcome to my GitHub profile! I'm passionate about [mention your primary skills 
 - **Tools & Platforms:** [Git, PostgreSQL, Vercel, Docker, Railway.app, etc.]
 - **Special Interests:** [Django Fullstack and_Backend, data science, cloud infrastructure, and advanced UI/UX design]
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sismolla&show_icons=true&theme=radical)
-
 ## 🏆 Highlights
 - Developed and deployed multiple projects in Django, including:
   - **Service platforms** with advanced payment processing and VIP ad plans.
