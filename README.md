@@ -1,6 +1,6 @@
 # Hi there, I'm Sisay Mollla 👋
 
-Welcome to my GitHub profile! I'm passionate about [mention your primary skills or interests, e.g., web development, data science, artificial intelligence, etc.]. Here you’ll find a collection of my projects, contributions, and a showcase of what I’m working on.
+Welcome to my GitHub profile! I'm passionate about [Django Fullstack  and Backen  ML,Python programming, Web Design, web development, data science, artificial intelligence, etc.]. Here you’ll find a collection of my projects, contributions, and a showcase of what I’m working on.
 
 ---
 
